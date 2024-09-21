@@ -7,3 +7,5 @@ I have designed the datapath and tested using verilog on the FPGA board. R-type,
 ![Screenshot 2024-09-21 105853](https://github.com/user-attachments/assets/d4e361b0-a67a-42dd-83fe-3b24b8d58af2)
 ![Screenshot 2024-09-21 105911](https://github.com/user-attachments/assets/9eec9bb5-6318-4b5e-af10-f55d4d46116c)
 ![Screenshot 2024-09-21 105937](https://github.com/user-attachments/assets/53b385d3-9a0f-4dea-941e-6975bc7ff1f3)
+![PSD assignment _240918_191643_1](https://github.com/user-attachments/assets/71d25785-6ea3-4634-a45b-faecb5ac6a24)
+![PSD assignment _240918_191643_2](https://github.com/user-attachments/assets/0cab7402-2753-4fe6-931c-a58e7f61ed9a)
